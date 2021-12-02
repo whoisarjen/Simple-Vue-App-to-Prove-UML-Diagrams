@@ -1,3 +1,5 @@
+It's a simple app to just prove logic in UML diagrams.
+
 # app
 
 ## Project setup
