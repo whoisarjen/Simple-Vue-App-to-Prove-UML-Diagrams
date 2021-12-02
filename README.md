@@ -1,4 +1,4 @@
-It's a simple app to just prove logic in UML diagrams.
+It's a simple Vue app to just prove logic in UML diagrams.
 
 # app
 
