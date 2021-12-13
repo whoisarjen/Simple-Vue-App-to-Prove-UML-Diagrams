@@ -19,7 +19,7 @@
 
             <v-list-item
               v-else
-              :key="item.title"
+              :key="item._id"
             >
               <v-list-item-avatar>
                 <v-img :src="'https://mpng.subpng.com/20180411/rzw/kisspng-user-profile-computer-icons-user-interface-mystique-5aceb0245aa097.2885333015234949483712.jpg'"></v-img>
