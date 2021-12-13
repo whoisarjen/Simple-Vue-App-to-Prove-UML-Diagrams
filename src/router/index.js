@@ -5,32 +5,32 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/Simple-Vue-App-to-Prove-UML-Diagrams/',
+    path: '/',
     name: 'CheckHistory',
     component: () => import('../views/CheckHistory.vue')
   },
   {
-    path: '/Simple-Vue-App-to-Prove-UML-Diagrams/deposit',
+    path: '/deposit',
     name: 'Deposit',
     component: () => import('../views/Deposit.vue')
   },
   {
-    path: '/Simple-Vue-App-to-Prove-UML-Diagrams/withdraw',
+    path: '/withdraw',
     name: 'Withdraw',
     component: () => import('../views/Withdraw.vue')
   },
   {
-    path: '/Simple-Vue-App-to-Prove-UML-Diagrams/loan',
+    path: '/loan',
     name: 'Loan',
     component: () => import('../views/Loan.vue')
   },
   {
-    path: '/Simple-Vue-App-to-Prove-UML-Diagrams/transfer',
+    path: '/transfer',
     name: 'Transfer',
     component: () => import('../views/Transfer.vue')
   },
   {
-    path: '/Simple-Vue-App-to-Prove-UML-Diagrams/login',
+    path: '/login',
     name: 'Login',
     component: () => import('../views/Login.vue')
   }
